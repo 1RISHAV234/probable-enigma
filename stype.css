@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+canvas {
+    border-color: white;
+    border-width: 10px;
+    background-color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    cursor:crosshair;
+}
